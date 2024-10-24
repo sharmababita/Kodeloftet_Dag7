@@ -21,6 +21,7 @@ Your task is to create a website that adapts to different screen sizes using med
 - Consider where it is natural to use fixed or responsive target units for optimal design.
 - Set up a breakpoint with a media query that changes the design of the website, so that it adapts to large screens (such as laptops) and small screens (such as mobile phones).
 - Use Flexbox to adjust the position of elements on two classes at the breakpoint
+  
 **Bonus**:
 - Set up multiple breakpoints with media queries to adapt the design to different screen sizes: larger screens (monitor/TV), large screens (laptop), medium screens (tablet), and small screens (mobile).
 - Use CSS Grid to change the position of the elements at the various breakpoints.
