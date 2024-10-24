@@ -27,5 +27,12 @@ Your task is to create a website that adapts to different screen sizes using med
 - Use CSS Grid to change the position of the elements at the various breakpoints.
 - Add content that should only be displayed on either desktop or mobile, depending on the screen size.
 
+**Resources**:
+- https://www.w3schools.com/html/html_responsive.asp
+- https://www.w3schools.com/css/css3_mediaqueries.asp?authuser=0
+- https://www.w3schools.com/css/css_units.asp?authuser=0
+
+- https://github.com/JulieKodehode/kodeloftetG11_undervisning7?authuser=0
+
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sharmababita/Kodeloftet_Dag7)
 
